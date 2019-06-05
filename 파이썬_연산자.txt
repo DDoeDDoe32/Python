@@ -1,0 +1,17 @@
+﻿산술연산자
+-> 산술연산은 일상생활에서 사용하는 사칙연산과 나머지 또는 몫만 구하기를 포함합니다.
+몫만 구하는 연산 : //
+
+비교연산자
+-> 피연산자를 비교해서 결과값으로 bool 타입의 True 또는 False를 반환합니다.
+x >= y
+x <= y
+해당하면 True, 그렇지 않으면 False
+
+논리연산자에는 not, and, or 연산자가 있습니다.
+-> not x
+x가 True이면 False, False이면 True 반환
+x and y x와 y 모두 True이면 True, 그렇지 않으면 False 반환
+x or y x와 y중 하나라도 True이면 True, 그렇지 않으면 False 반환
+
+
